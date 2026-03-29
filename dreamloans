@@ -516,14 +516,14 @@ footer{background:#060F1E;padding:2.8rem 5% 1.8rem;}
     <p class="sd" style="margin:0 auto;text-align:center;">We work with India's most trusted financial institutions to offer you the best rates, fastest processing, and widest product range.</p>
   </div>
   <div class="partners-logos">
-    <div class="partner-logo"><img src="https://logo.clearbit.com/hdfcbank.com" alt="HDFC Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#004C8F>HDFC Bank</span>'"></div>
-    <div class="partner-logo"><img src="https://logo.clearbit.com/icicibank.com" alt="ICICI Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#F37421>ICICI Bank</span>'"></div>
-    <div class="partner-logo"><img src="https://logo.clearbit.com/idfcfirstbank.com" alt="IDFC First Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#9B1E5F>IDFC First Bank</span>'"></div>
-    <div class="partner-logo"><img src="https://logo.clearbit.com/kotak.com" alt="Kotak Mahindra" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#EF3E23>Kotak Bank</span>'"></div>
-    <div class="partner-logo"><img src="https://logo.clearbit.com/axisbank.com" alt="Axis Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#97144D>Axis Bank</span>'"></div>
+    <div class="partner-logo"><img src="" alt="HDFC Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#004C8F>HDFC Bank</span>'"></div>
+    <div class="partner-logo"><img src="unnamed.png" alt="ICICI Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#F37421>ICICI Bank</span>'"></div>
+    <div class="partner-logo"><img src="download (1).png" alt="IDFC First Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#9B1E5F>IDFC First Bank</span>'"></div>
+    <div class="partner-logo"><img src="6237eae9ce4d0e01d71ccd09b940a053.jpg" alt="Kotak Mahindra" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#EF3E23>Kotak Bank</span>'"></div>
+    <div class="partner-logo"><img src="download (2)" alt="Axis Bank" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#97144D>Axis Bank</span>'"></div>
     <div class="partner-logo"><img src="https://logo.clearbit.com/bajajfinserv.in" alt="Bajaj Finserv" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#006DB7>Bajaj Finserv</span>'"></div>
-    <div class="partner-logo"><img src="https://logo.clearbit.com/tatacapital.com" alt="Tata Capital" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#1E3C96>Tata Capital</span>'"></div>
-    <div class="partner-logo"><img src="https://logo.clearbit.com/ltfs.com" alt="L&amp;T Finance" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#E2231A>L&amp;T Finance</span>'"></div>
+    <div class="partner-logo"><img src="download (3)" alt="Tata Capital" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#1E3C96>Tata Capital</span>'"></div>
+    <div class="partner-logo"><img src="download.png" alt="L&amp;T Finance" onerror="this.parentNode.innerHTML='<span style=font-size:13px;font-weight:600;color:#E2231A>L&amp;T Finance</span>'"></div>
   </div>
 </section>
 
